@@ -1,0 +1,19 @@
+#invalidLoginMessage{
+	color: white;
+	background-color:black;
+	display: inline-block;
+	font-size:smaller;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	padding-top: 0.2em;
+	padding-bottom: 0.2em;
+	border-radius: 1em;
+}
+
+#username, #password {
+	border-radius: 0.25em;
+	box-shadow: 0 0 5px white;
+  	padding: 3px 0px 3px 3px;
+  	margin: 5px 1px 3px 0px;
+  	border: 1px solid white;
+}
